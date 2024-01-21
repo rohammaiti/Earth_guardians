@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Earth_guardians/static/css/main.f8ec305d.css",
-    "main.js": "/Earth_guardians/static/js/main.06eda25e.js",
+    "main.css": "/Earth_guardians/static/css/main.a8ecc587.css",
+    "main.js": "/Earth_guardians/static/js/main.95c526cc.js",
     "static/js/787.9c5e822e.chunk.js": "/Earth_guardians/static/js/787.9c5e822e.chunk.js",
     "static/media/video.mp4": "/Earth_guardians/static/media/video.217bc138c2eb8d98fc50.mp4",
     "static/media/asset6.png": "/Earth_guardians/static/media/asset6.d7bfd76de225aed7fa08.png",
@@ -12,12 +12,12 @@
     "static/media/asset0.png": "/Earth_guardians/static/media/asset0.284b4f3412d58fb08d49.png",
     "static/media/asset2.jpeg": "/Earth_guardians/static/media/asset2.ce09b252ead99c3d41a7.jpeg",
     "index.html": "/Earth_guardians/index.html",
-    "main.f8ec305d.css.map": "/Earth_guardians/static/css/main.f8ec305d.css.map",
-    "main.06eda25e.js.map": "/Earth_guardians/static/js/main.06eda25e.js.map",
+    "main.a8ecc587.css.map": "/Earth_guardians/static/css/main.a8ecc587.css.map",
+    "main.95c526cc.js.map": "/Earth_guardians/static/js/main.95c526cc.js.map",
     "787.9c5e822e.chunk.js.map": "/Earth_guardians/static/js/787.9c5e822e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f8ec305d.css",
-    "static/js/main.06eda25e.js"
+    "static/css/main.a8ecc587.css",
+    "static/js/main.95c526cc.js"
   ]
 }
