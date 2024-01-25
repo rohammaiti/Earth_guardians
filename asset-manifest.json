@@ -1,23 +1,31 @@
 {
   "files": {
     "main.css": "/Earth_guardians/static/css/main.9378214e.css",
-    "main.js": "/Earth_guardians/static/js/main.c757cbb8.js",
+    "main.js": "/Earth_guardians/static/js/main.deaa3439.js",
     "static/js/787.9c5e822e.chunk.js": "/Earth_guardians/static/js/787.9c5e822e.chunk.js",
     "static/media/video.mp4": "/Earth_guardians/static/media/video.217bc138c2eb8d98fc50.mp4",
     "static/media/asset6.png": "/Earth_guardians/static/media/asset6.d7bfd76de225aed7fa08.png",
+    "static/media/asset90.png": "/Earth_guardians/static/media/asset90.4cdb0c585e5402c3e715.png",
+    "static/media/asset87.png": "/Earth_guardians/static/media/asset87.18d57d4c4125a002258d.png",
     "static/media/asset5.png": "/Earth_guardians/static/media/asset5.16e99c603351cc46f023.png",
+    "static/media/asset85.png": "/Earth_guardians/static/media/asset85.7acf3433a6eace8c2ac5.png",
+    "static/media/asset89.png": "/Earth_guardians/static/media/asset89.c8cacc09ea3fe3a8dd25.png",
     "static/media/asset7.png": "/Earth_guardians/static/media/asset7.74bc726388fa38e0c596.png",
     "static/media/asset9.png": "/Earth_guardians/static/media/asset9.e182982af7f05e098a6e.png",
+    "static/media/asset86.png": "/Earth_guardians/static/media/asset86.9d92e516a72af0b94a54.png",
+    "static/media/asset92.png": "/Earth_guardians/static/media/asset92.4701842c9e88b2959dbf.png",
+    "static/media/asset88.png": "/Earth_guardians/static/media/asset88.33a3fdb516ffe1ee47f9.png",
+    "static/media/asset91.png": "/Earth_guardians/static/media/asset91.cda28d63ec0457711d35.png",
     "static/media/asset8.png": "/Earth_guardians/static/media/asset8.ebc62830869fce0d6de5.png",
     "static/media/asset0.png": "/Earth_guardians/static/media/asset0.284b4f3412d58fb08d49.png",
     "static/media/asset2.jpeg": "/Earth_guardians/static/media/asset2.ce09b252ead99c3d41a7.jpeg",
     "index.html": "/Earth_guardians/index.html",
     "main.9378214e.css.map": "/Earth_guardians/static/css/main.9378214e.css.map",
-    "main.c757cbb8.js.map": "/Earth_guardians/static/js/main.c757cbb8.js.map",
+    "main.deaa3439.js.map": "/Earth_guardians/static/js/main.deaa3439.js.map",
     "787.9c5e822e.chunk.js.map": "/Earth_guardians/static/js/787.9c5e822e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9378214e.css",
-    "static/js/main.c757cbb8.js"
+    "static/js/main.deaa3439.js"
   ]
 }
